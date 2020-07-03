@@ -1,1 +1,60 @@
-Under Construction
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en"><head>
+<title>AryaKarami</title>
+<script src="template/packages.js" type="text/javascript"></script>
+
+</head>
+<body>    <div id="wrapper">
+      <div id="header">
+       
+
+        <a class="hiddenStructure" href="//#documentContent">Skip
+             to content</a>
+
+
+   </div>  <!-- header -->
+
+<div id="content">
+
+  <h1>AryaKarami</h1><!-- messages.tmpl -->
+<p> Welcome to my home page.<br><br> My name is Arya Karami and I am a graduate student of Industrial Engineering at the <a href="http://sharif.ir"> Sharif University of Technology. I am interested in mathematical understanding of efficient algorithms for machine learning, CPD, Stochastic Processes and Optimization. 
+  
+<p>Questions? Send me an email! karamiarya@yahoo.com</p>
+
+
+<hr>
+<h2>Education</h2>
+<ul>
+
+<li>B.Sc. in <b>Industrial Engineering</b>, Sharif University of Technology, Tehran, Iran (2012-2016)<br>
+Ranked in the top 5% of class, GPA 4.00/4.00
+</li>
+</ul>
+
+
+<hr>
+<h2>Scientific Interests</h2>
+<ul>
+<li>Applied Probability</li>
+<li>Social Network analysis</li>
+<li>Stochastic Optimization</li>
+
+</ul>
+
+<hr>
+
+<h2> Experiences </h2>
+<h3> Research Experiences </h3>
+
+I am currently a member of the IE association.
+
+<p>
+
+Arya Karami - Last Updated: 3-July-2020
+</div> <!-- end impressum -->
+
+</div> <!-- end footer -->
+
+
+
+</div></body></html>
